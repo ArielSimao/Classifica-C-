@@ -1,0 +1,32 @@
+﻿<Window x:Class="CLASSIFICA_WPF.Avaliar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CLASSIFICA_WPF"
+        mc:Ignorable="d"
+        Title="Avaliar" Height="500" MinHeight="500" MaxHeight="500" Width="700" MinWidth="700" MaxWidth="700" 
+        Icon="Imagens\icon.ico"
+        FontFamily="{DynamicResource MaterialDesignFont}" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Label Content="Escolha O ID Da Pessoa:" HorizontalAlignment="Left" Margin="422,96,0,0" VerticalAlignment="Top"/>
+        <ComboBox x:Name="comboIdPessoaAvaliar" HorizontalAlignment="Left" Margin="565,93,0,0" VerticalAlignment="Top" Width="97" RenderTransformOrigin="0.481,0.923" BorderThickness="1"/>
+        <Label Content="Nota:" HorizontalAlignment="Left" Margin="426,143,0,0" VerticalAlignment="Top" RenderTransformOrigin="1.205,0.625"/>
+        <Grid x:Name="radiosAvaliacao" HorizontalAlignment="Left" Height="24" Margin="470,143,0,0" VerticalAlignment="Top" Width="194">
+            <RadioButton x:Name="rbUm" Content="1" HorizontalAlignment="Left" Margin="3,0,0,0" VerticalAlignment="Top" Checked="rbUm_Checked"/>
+            <RadioButton x:Name="rbDois" Content="2" HorizontalAlignment="Right" Margin="0,0,131,0" VerticalAlignment="Top" RenderTransformOrigin="2.5,-1.278" Checked="rbDois_Checked"/>
+            <RadioButton x:Name="rbTres" Content="3" HorizontalAlignment="Left" Margin="73,0,0,0" VerticalAlignment="Top" Checked="rbTres_Checked"/>
+            <RadioButton x:Name="rbQuatro" Content="4" HorizontalAlignment="Left" Margin="108,0,0,0" VerticalAlignment="Top" Checked="rbQuatro_Checked"/>
+            <RadioButton x:Name="rbCinco" Content="5" HorizontalAlignment="Left" Margin="143,0,0,0" VerticalAlignment="Top" Checked="rbCinco_Checked"/>
+        </Grid>
+        <Label Content="Lista de Pessoas Cadastradas" HorizontalAlignment="Left" Margin="16,66,0,0" VerticalAlignment="Top"/>
+        <Label Content="Avaliar Pessoa" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="682" HorizontalContentAlignment="Center" FontSize="16" FontWeight="Bold"/>
+        <Label Content="Comentario*:" HorizontalAlignment="Left" Margin="422,192,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnConfirmar" Content="Confirmar" HorizontalAlignment="Left" Margin="444,406,0,0" VerticalAlignment="Top" Width="150" FontSize="12" Click="btnConfirmar_Click"/>
+        <Button x:Name="btnLimpar" Content="Limpar" HorizontalAlignment="Left" Margin="271,406,0,0" VerticalAlignment="Top" Width="150" FontSize="12" Click="btnLimpar_Click"/>
+        <Label Content="*opcional" HorizontalAlignment="Left" Margin="614,345,0,0" VerticalAlignment="Top" FontSize="9" RenderTransformOrigin="0.552,3.786"/>
+        <DataGrid x:Name="dgAvaliar" HorizontalAlignment="Left" Height="268" Margin="10,90,0,0" VerticalAlignment="Top" Width="403" BorderThickness="1" BorderBrush="#89000000" FontSize="10"/>
+        <TextBox x:Name="txtComentarioAvaliar" HorizontalAlignment="Left" Height="136" Margin="507,204,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="157" BorderThickness="1"/>
+        <Button x:Name="button" Content="Voltar" HorizontalAlignment="Left" Margin="101,406,0,0" VerticalAlignment="Top" Width="150" Click="button_Click"/>
+    </Grid>
+</Window>

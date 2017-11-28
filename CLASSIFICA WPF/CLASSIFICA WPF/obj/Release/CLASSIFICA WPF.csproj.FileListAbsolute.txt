@@ -1,0 +1,26 @@
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\bin\Release\CLASSIFICA WPF.exe.config
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\bin\Release\CLASSIFICA WPF.exe
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\bin\Release\CLASSIFICA WPF.pdb
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\bin\Release\MaterialDesignColors.dll
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\bin\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\bin\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\bin\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\CLASSIFICA WPF.csprojResolveAssemblyReference.cache
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\Avaliar.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\Cadastro.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\MainWindow.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\Ranking.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\App.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\CLASSIFICA WPF_MarkupCompile.cache
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\CLASSIFICA WPF_MarkupCompile.lref
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\App.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\Avaliar.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\Cadastro.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\MainWindow.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\Ranking.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\CLASSIFICA WPF.g.resources
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\CLASSIFICA_WPF.Properties.Resources.resources
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\CLASSIFICA WPF.csproj.GenerateResource.Cache
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\CLASSIFICA WPF.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\CLASSIFICA WPF.exe
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Release\CLASSIFICA WPF.pdb

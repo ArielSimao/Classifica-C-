@@ -1,0 +1,21 @@
+﻿<Window x:Class="CLASSIFICA_WPF.Ranking"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CLASSIFICA_WPF"
+        mc:Ignorable="d"
+        Title="Ranking" Height="500" MinHeight="500" MaxHeight="500" Width="700" MinWidth="700" MaxWidth="700" 
+        Icon="Imagens\icon.ico"
+        FontFamily="{DynamicResource MaterialDesignFont}" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="btnVoltar" Content="Voltar" HorizontalAlignment="Left" Margin="70,412,0,0" VerticalAlignment="Top" Width="150" Click="btnVoltar_Click"/>
+        <Button x:Name="btnVoltar_Copy" Content="Avaliações do Usuario Selecionado" HorizontalAlignment="Left" Margin="388,412,0,0" VerticalAlignment="Top" Width="278" Click="btnVoltar_Copy_Click"/>
+        <Label Content="Ranking" HorizontalAlignment="Left" Margin="12,8,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="txtComentarioRanking" Content="" HorizontalAlignment="Left" Margin="359,41,0,0" VerticalAlignment="Top" Width="136" Height="84"/>
+        <DataGrid x:Name="dgRanking" HorizontalAlignment="Left" Height="316" Margin="12,58,0,0" VerticalAlignment="Top" Width="371" RenderTransformOrigin="-0.23,-0.15" BorderThickness="1" FontSize="10"/>
+        <DataGrid x:Name="dgAvaliacao" HorizontalAlignment="Left" Margin="388,58,0,0" VerticalAlignment="Top" Height="316" Width="294" FontSize="10" BorderThickness="1"/>
+        <Label x:Name="label" Content="Avaliações" HorizontalAlignment="Left" Margin="359,0,0,437" VerticalAlignment="Bottom" RenderTransformOrigin="1.485,0.417" Width="80"/>
+
+    </Grid>
+</Window>

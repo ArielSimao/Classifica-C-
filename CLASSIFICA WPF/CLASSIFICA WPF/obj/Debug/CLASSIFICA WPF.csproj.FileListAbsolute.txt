@@ -1,0 +1,77 @@
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\CLASSIFICA WPF.exe.config
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\CLASSIFICA WPF.exe
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\CLASSIFICA WPF.pdb
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.csprojResolveAssemblyReference.cache
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\App.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF_MarkupCompile.cache
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF_MarkupCompile.lref
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\App.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\MainWindow.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.g.resources
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA_WPF.Properties.Resources.resources
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.csproj.GenerateResource.Cache
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.exe
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.pdb
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Avaliar.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Cadastro.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Ranking.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Avaliar.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Cadastro.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\C Sharp\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Ranking.baml
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\CLASSIFICA WPF.exe.config
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.exe
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.pdb
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\CLASSIFICA WPF.exe
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\CLASSIFICA WPF.pdb
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.csprojResolveAssemblyReference.cache
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Avaliar.g.cs
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\MainWindow.g.cs
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Ranking.g.cs
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\App.g.cs
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF_MarkupCompile.cache
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF_MarkupCompile.lref
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\App.baml
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Avaliar.baml
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\MainWindow.baml
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Ranking.baml
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.g.resources
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA_WPF.Properties.Resources.resources
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.csproj.GenerateResource.Cache
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Cadastrar.g.cs
+C:\Users\carlos\Desktop\Ariel Simao\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Cadastrar.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\CLASSIFICA WPF.exe.config
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\CLASSIFICA WPF.exe
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\CLASSIFICA WPF.pdb
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.csprojResolveAssemblyReference.cache
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Avaliar.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Cadastrar.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Ranking.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\App.g.cs
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF_MarkupCompile.cache
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF_MarkupCompile.lref
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\App.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Avaliar.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Cadastrar.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\MainWindow.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\Ranking.baml
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.g.resources
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA_WPF.Properties.Resources.resources
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.csproj.GenerateResource.Cache
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.csproj.CoreCompileInputs.cache
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.exe
+C:\Users\Windows\OneDrive - Centro Paula Souza - FATEC\Curso Tecnico Informatica\TRABALHO\CLASSIFICA WPF\CLASSIFICA WPF\obj\Debug\CLASSIFICA WPF.pdb
